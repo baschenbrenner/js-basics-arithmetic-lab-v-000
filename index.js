@@ -13,3 +13,5 @@ ageIsValid = Number.isInteger(currentAge)
 
 randomNumber = Math.random()*20
 randomInteger = Math.floor(randomNumber)
+
+randomUserID = randomInteger + 1000000000
