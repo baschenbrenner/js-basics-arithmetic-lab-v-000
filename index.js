@@ -7,5 +7,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-newID = oldID+4
-
+newID = Number.parseInt(oldID,2)
